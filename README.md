@@ -8,9 +8,9 @@
 
 ## We are a team of programmers and web designers operating under the name "Fayum." Our expertise lies in creating and developing professional and user-friendly websites that help businesses enhance their online presence and achieve their goals.
 
-Our team consists of experienced programmers and designers who use the latest technologies and industry standards to complete diverse projects. We meticulously assess our clients' needs and provide customized solutions to ensure a unique and successful experience for them.
+## Our team consists of experienced programmers and designers who use the latest technologies and industry standards to complete diverse projects. We meticulously assess our clients' needs and provide customized solutions to ensure a unique and successful experience for them.
 
-If you are looking for a reliable and professional team to design and develop your website, "Fayum" is ready to accompany you on this journey and provide high-quality services to ensure your satisfaction.
+## If you are looking for a reliable and professional team to design and develop your website, "Fayum" is ready to accompany you on this journey and provide high-quality services to ensure your satisfaction.
 
 
 # 💻 Tech Stack:
