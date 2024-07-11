@@ -1,10 +1,10 @@
-<img src="Champ.gif"></img>
+<img src="5035-heart-eyes-pfpsgg.png"></img>
 # 💫 About Me:
 🔭 I’m currently working on Meta Project<br><br>🌱 I’m currently learning Ruby<br><br>⚡ Fun fact I think Im Funny ^^
 
 
 
-### <img src="5035-heart-eyes-pfpsgg.png" width="50">about me (:
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">about me (:
 
 
 
